@@ -25,7 +25,7 @@ I've checked all the characters and these are getting filtered, and also I think
 ## How do i try?
 First install the required libraries to test your code.
 ```console
-npm i mocha chai --save
+npm i mocha chai assert --save
 ```
 After you've done that write your code in <tt>**solution.js**</tt> and run <tt>**npm test**</tt> to check if you completed the challenge.
 > Don't use the keyword <tt>**let**</tt> because it can't be accessed.
