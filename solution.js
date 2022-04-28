@@ -5,5 +5,5 @@ function blackListed(argument){
 	else
 	{
 		return String(argument)
-	}  
+	}
 }
