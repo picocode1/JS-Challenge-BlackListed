@@ -29,3 +29,7 @@ npm i mocha chai --save
 ```
 After you've done that write your code in <tt>**solution.js**</tt> and run <tt>**npm test**</tt> to check if you completed the challenge.
 > Don't use the keyword <tt>**let**</tt> because it can't be accessed.
+
+---
+
+Originally posted on [codewars](https://www.codewars.com/kata/62569babdb611500166186f5/) but got retired.
